@@ -44,8 +44,6 @@ var sal = (function(){
 		
 		if(options.doPushState){
 	  		history.pushState(stateObj, "", url);
-	  		dispatchEvt({
-	 	    }, "pushState");
 	  	}
 	}
 	

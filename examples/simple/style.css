@@ -1,0 +1,12 @@
+*{margin:0; padding:0;}
+body{font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;}
+/* remember to hide this in your CSS! */
+salhistory{display:none;}
+#container{margin:0 auto; width:990px;}
+#mainMenu{list-style:none; text-align:center; padding:25px 0;}
+#mainMenu li{display:inline-block; margin:0 50px; width:200px;}
+#mainMenu a{display:block; text-decoration:none; font:italic bold 50px Arial; font-family:inherit; color: #000;
+text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;}
+main{min-height:500px;}
+footer{text-align:center; font:italic bold 50px Arial; font-family:inherit; color: #000;
+text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;}}
